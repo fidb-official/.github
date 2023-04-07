@@ -1,5 +1,6 @@
 # Welcome to FiDB
 
-[ [HOMEPAGE](https://fidb.dev) ]
+[ [WEBWITE](https://fidb.dev)
+| [MANUAL](https://readonly.link/manuals/https://cdn.fidb.dev/docs/manual.json) ]
 
-> File system as database.
+File system as database.
